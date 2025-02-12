@@ -11,6 +11,7 @@ executing==1.2.0
 fonttools==4.38.0
 gitdb==4.0.9
 GitPython==3.1.27
+ipykernel==6.29.0
 ipython==8.9.0
 jedi==0.18.2
 jsonpickle==1.5.2
@@ -32,11 +33,10 @@ pycparser==2.21
 Pygments==2.14.0
 pyparsing==3.0.9
 pyroomacoustics==0.7.3
-PySimpleGUI==4.60.4
+PySimpleGUI==4.60.5
 python-dateutil==2.8.2
 sacred==0.8.2
 scipy==1.10.0
-simpleaudio==1.0.4
 six==1.16.0
 smmap==5.0.0
 soundfile==0.11.0
